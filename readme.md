@@ -1,4 +1,4 @@
-# Com 260, Fall 2026 American University
+# Comm 260, Fall 2026 American University
 
 Ryan Barna
 
